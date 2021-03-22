@@ -25,3 +25,8 @@ Format: ![alt text](url)
 
 https://github.com - automatic!
 [github](http://github.com)
+
+First Header | Second Header
+------------ | -------------
+content cell 1 | content cell 2
+content column 1 | content column 2

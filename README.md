@@ -67,7 +67,7 @@ Programming Languages
 :   **obscure-but-impressive-lang:** We both know this one's pushing
     it.
 
-:   Basic knowledge of **C**, **python**, **java**, **Cpp**, **GIT & GITHUB**, ** DATA SCIENCE**, **MACHINE LEARNING**
+:   Basic knowledge of **C**, **python**, **java**, **Cpp**, **GIT & GITHUB**, **DATA SCIENCE**, **MACHINE LEARNING**
 
 [ref]: https://github.com/githubuser/superlongprojectname
 

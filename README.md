@@ -2,8 +2,8 @@ Revanth.V
 ============
 
 -------------------     ----------------------------
-1 MyAddress                     revanthvinjamuri1112@gmail.com
-MyTown 1000                          @twitter_handle
+MyAddress                     revanthvinjamuri1112@gmail.com
+MyTown                           @twitter_handle
 MyCountry                        91 india
 -------------------     ----------------------------
 

@@ -30,3 +30,7 @@ First Header | Second Header
 ------------ | -------------
 content cell 1 | content cell 2
 content column 1 | content column 2
+
+github supports emoji!
+:+1: :sparkles: :camel: :tada:
+:rocket: :metal: :octopus

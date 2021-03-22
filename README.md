@@ -22,3 +22,6 @@ __this will also be bold__
    * Item 3b
 ![github logo](/images/logo.png)
 Format: ![alt text](url)
+
+https://github.com - automatic!
+[github](http://github.com)
